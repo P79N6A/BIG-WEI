@@ -54,7 +54,7 @@ layout: default
                 <hr>
                 <h5>FRIENDS</h5>
                 <ul class="list-inline">
-                    {% for friend in site.friends %}
+                    {% for friend in site.friendsWitch %}
                         <li><a href="{{friend.href}}">{{friend.title}}</a></li>
                     {% endfor %}
                 </ul>
@@ -174,7 +174,7 @@ layout: default
                     </div>
                 </section>
                 <!-- Friends Blog -->
-                {% if site.friends %}
+                {% if site.friendsWitch %}
                 <hr>
                 <h5>FRIENDS</h5>
                 <ul class="list-inline">
