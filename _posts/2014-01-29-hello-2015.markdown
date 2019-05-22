@@ -18,6 +18,10 @@ tags:
 
 Hux 的 Blog 就这么开通了。
 
+[关于主题模板](https://github.com/huxpro/huxpro.github.io/)
+
+[中文模板](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
+
 [跳过废话，直接看技术实现 ](#build)
 
 2015 年，Hux 总算有个地方可以好好写点东西了。
