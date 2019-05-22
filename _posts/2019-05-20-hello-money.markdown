@@ -2,7 +2,7 @@
 layout: post
 title: '你做好财富自由的准备了吗？'
 subtitle: '"正念正观"'
-date: 2019-05-29 20:00:00
+date: 2019-05-20 20:00:00
 author: 'WYA'
 header-img: 'img/post-bg-2015.jpg'
 tags:
