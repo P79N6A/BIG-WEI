@@ -3,7 +3,7 @@ layout: post
 title: '一秒钟，看透问题的本质'
 subtitle: '"什么才是问题"'
 date: 2019-05-22 00:00:00
-author: 'WYA'
+author: 'Weiya'
 header-img: 'img/post-bg-2015.jpg'
 tags:
   - 问题

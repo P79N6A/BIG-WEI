@@ -12,7 +12,7 @@ $(function() {
 
 // make all images responsive
 /* 
- * Unuse by WYA
+ * Unuse by Weiya
  * actually only Portfolio-Pages can't use it and only post-img need it.
  * so I modify the _layout/post and CSS to make post-img responsive!
  */

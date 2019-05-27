@@ -29,10 +29,10 @@ Trace:
 npm manifest: 
   {
       "name": "hux-blog",
-      "title": "WYA Blog",
+      "title": "Weiya Blog",
       "version": "1.0.0",
       "homepage": "http://huxpro.github.io",
-      "author": "WYA",
+      "author": "Weiya",
       "devDependencies": {
           "grunt": "~0.4.5",
           "grunt-contrib-less": "~0.11.4",
@@ -42,7 +42,7 @@ npm manifest:
       },
       "repository": {
           "type": "git",
-          "url": "https://github.com/WYApro/huxpro.github.io"
+          "url": "https://github.com/Weiyapro/huxpro.github.io"
       },
       "scripts": {
           "preview": "cd _site; python -m SimpleHTTPServer 8020",

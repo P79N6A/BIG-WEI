@@ -3,7 +3,7 @@ layout: post
 title: '如何才能买得到一辆 899w 的跑车'
 subtitle: '"如何在 5 年 内获取到 8,990,000 + RMB?"'
 date: 2019-05-26 20:00:00
-author: 'WYA'
+author: 'Weiya'
 header-img: 'img/post-bg-2015.jpg'
 tags:
   - 问题

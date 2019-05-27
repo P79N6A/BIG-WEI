@@ -3,7 +3,7 @@ layout: post
 title: '如果不从事编程这个行业, 跟现在有什么不同?'
 subtitle: '"如果我在做公务员会怎么样?"'
 date: 2019-05-26 20:00:00
-author: 'WYA'
+author: 'Weiya'
 header-img: 'img/post-bg-2015.jpg'
 tags:
   - 问题

@@ -1,4 +1,4 @@
-# WYA blog 模板
+# Weiya blog 模板
 
 ### [我的博客在这里](http://huxpro.github.io)
 
@@ -12,7 +12,7 @@
 
 - 当你 fork 了我的仓库之后，还要删掉里面的关于我的文档是不是感到略烦躁呢？**Boilerplate** 模板将帮助你快速开始，方便合并与更新。
 - `-apple-system`被添加到了字体规则里面了，这套字体格式能将 iOS9 默认的新字体**San Francisco**表现的非常漂亮。
-- 解决了代码过长自动换行的 bug,替换为横向滚动条。详情请见[issue#15](https://github.com/WYApro/huxpro.github.io/issues/15)
+- 解决了代码过长自动换行的 bug,替换为横向滚动条。详情请见[issue#15](https://github.com/Weiyapro/huxpro.github.io/issues/15)
 
 ###### 其他历史版本个人觉得没有必要了解，看看英文就行了。
 
@@ -50,8 +50,8 @@
 
 ```
 # Site settings
-title: WYA Blog             # 你的博客网站标题
-SEOTitle: WYA Blog			# 在后面会详细谈到
+title: Weiya Blog             # 你的博客网站标题
+SEOTitle: Weiya Blog			# 在后面会详细谈到
 description: "Cool Blog"    # 随便说点，描述一下
 
 # SNS settings
@@ -76,7 +76,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   "Hello World, Hello Blog"
 date:       2015-01-29 12:00:00
-author:     "WYA"
+author:     "Weiya"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
@@ -115,7 +115,7 @@ featured-tags: true
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 ```
 
-唯一需要注意的是`featured-condition-size`: A tag will be featured if the size of it is more than this condition value. （也不知道 WYA 是想表达什么意思，请作者解答）
+唯一需要注意的是`featured-condition-size`: A tag will be featured if the size of it is more than this condition value. （也不知道 Weiya 是想表达什么意思，请作者解答）
 
 内部有一个条件模板 `{% if tag[1].size > {{site.featured-condition-size}} %}` 是用来做筛选过滤的.
 
@@ -202,7 +202,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 #### Header Image
 
 标题底图是可以自己选的，看看几篇示例 post 你就知道如何设置了，详情请见：
-[issue #6 ](https://github.com/WYApro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
+[issue #6 ](https://github.com/Weiyapro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
 
 标题底图的选取完全是看个人的审美了，我也帮不了你。每一篇文章可以有不同的底图，你想放什么就放什么，最后宽度要够，大小不要太大，否则加载慢啊。
 
@@ -210,7 +210,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 
 #### SEO Title
 
-我的博客标题是 **“WYA Blog”** 但是我想要在搜索的时候显示 **“黄玄的博客 | WYA Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“Weiya Blog”** 但是我想要在搜索的时候显示 **“黄玄的博客 | Weiya Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 

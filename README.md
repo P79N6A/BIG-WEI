@@ -1,9 +1,9 @@
-<!-- # WYABlog Boilerplate
+<!-- # WeiyaBlog Boilerplate
 
-##### This is the boilerplate of [WYA Blog](https://github.com/WYApro/huxpro.github.io), all documents is over there!
+##### This is the boilerplate of [Weiya Blog](https://github.com/Weiyapro/huxpro.github.io), all documents is over there!
 
 #### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-#### [View Live WYA Blog &rarr;](http://huangxuan.me)
+#### [View Live Weiya Blog &rarr;](http://huangxuan.me)
 
-## If you like WYA Blog, Please star [huxpro.github.io repo](https://github.com/WYApro/huxpro.github.io) instead of this! Thank you! -->
+## If you like Weiya Blog, Please star [huxpro.github.io repo](https://github.com/Weiyapro/huxpro.github.io) instead of this! Thank you! -->

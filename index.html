@@ -20,7 +20,7 @@ description: '雨中灯市欲眠 原已萧萧数年'
   </a>
   <p class="post-meta">
     Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{%
-    endif %} on {{ post.date | date: '%B %-d, %Y' }}
+    endif %} on {{ post.date | date: '%-b %-d, %Y' }}
   </p>
   {% capture time %}{{ post.content | reading_time }}{% endcapture %}
   <p>

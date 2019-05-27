@@ -3,7 +3,7 @@ layout: post
 title: '思维混乱，是因为大脑没有结构'
 subtitle: '"来自富研社"'
 date: 2019-05-21 12:00:00
-author: 'WYA'
+author: 'Weiya'
 header-img: 'img/post-bg-2015.jpg'
 tags:
   - 财富
