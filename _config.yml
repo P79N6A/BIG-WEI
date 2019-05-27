@@ -30,7 +30,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate,liquid_reading_time]
 
 
 
@@ -98,3 +98,13 @@ friends: [
         href: "#"
     }
 ]
+
+sitemap:
+    filename: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts: "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"

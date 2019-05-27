@@ -22,6 +22,11 @@ description: '雨中灯市欲眠 原已萧萧数年'
     Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{%
     endif %} on {{ post.date | date: '%B %-d, %Y' }}
   </p>
+  {% capture time %}{{ post.content | reading_time }}{% endcapture %}
+  <p>
+    This article will take {{ time }} {% if time == '1' %}minute{% else
+    %}minutes{% endif %} to read.
+  </p>
 </div>
 <hr />
 {% endfor %}
